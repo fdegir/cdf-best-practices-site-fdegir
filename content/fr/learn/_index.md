@@ -6,12 +6,12 @@ Cette section fournit des détails sur les meilleures pratiques de livraison con
 
 Les pratiques décrites dans cette section sont indépendantes du fournisseur. Pour lire des études de cas ou des implémentations avisées avec des outils spécifiques, consultez la section [Communauté](/community) . Vous pouvez également trouver des ressources supplémentaires dans la section [Ressources](/resources) .
 
-## How to use this guide
+## Comment utiliser ce guide
 
-If you are new to continuous delivery practices and want to understand their benefits and prerequisites to starting your journey, read the [Overview](overview).
+Si vous débutez dans les pratiques de livraison continue et que vous souhaitez comprendre leurs avantages et leurs conditions préalables pour démarrer votre voyage, lisez la [Présentation](overview) .
 
-If you have some familiarity with continuous delivery, but need help figuring out what to prioritize, read about [assessment](assess) tools to help you identify areas to focus on.
+Si vous êtes familiarisé avec la livraison continue, mais que vous avez besoin d'aide pour déterminer ce qu'il faut prioriser, lisez les outils [d'évaluation](assess) pour vous aider à identifier les domaines sur lesquels vous concentrer.
 
-The rest of the subsections in this guide provide information about key areas of continuous delivery.
+Les autres sous-sections de ce guide fournissent des informations sur les domaines clés de la livraison continue.
 
-Some practices depend on others, while others span the entire software lifecycle. For example, best practices for continuous integration depend on version control. Security best practices are most effective when applied across the entire software supply chain. Best practices also involve collaboration across functional teams.
+Certaines pratiques dépendent d'autres, tandis que d'autres couvrent l'ensemble du cycle de vie du logiciel. Par exemple, les meilleures pratiques d'intégration continue dépendent du contrôle de version. Les meilleures pratiques de sécurité sont plus efficaces lorsqu'elles sont appliquées à l'ensemble de la chaîne d'approvisionnement logicielle. Les meilleures pratiques impliquent également la collaboration entre les équipes fonctionnelles.
